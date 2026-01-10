@@ -1,0 +1,14 @@
+{
+  "OpenSSH 6.6.1p1": {
+    "cve": "CVE-2016-0777",
+    "severity": "HIGH",
+    "description": "Information disclosure vulnerability in OpenSSH",
+    "solution": "Update OpenSSH to latest version"
+  },
+  "Apache httpd 2.4.7": {
+    "cve": "CVE-2017-15710",
+    "severity": "MEDIUM",
+    "description": "Apache access control bypass vulnerability",
+    "solution": "Upgrade Apache HTTP Server"
+  }
+}
